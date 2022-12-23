@@ -1,0 +1,12 @@
+.input{
+    margin: 1rem;   
+    padding: .7rem;
+}
+
+.input:focus{
+    outline: none;
+}
+
+.checkbox{
+    margin-top: 1rem;
+}
